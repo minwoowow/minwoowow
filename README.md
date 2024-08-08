@@ -5,9 +5,9 @@
 않게끔 좋은 서비스를 제공하며 팀원들의 성장도 같이 이뤄낼 수 있는 부분을 조율해 개발해나가는 것에 관심이 많습니다. 
 
 # Tech Stack
-<table style="border: none;">
-  <tr style="border: none;">    
-    <td style="border: none;">
+<table style="border: none; cellspacing: 0; cellpadding: 0;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>    
     </td>  
-    <td style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwoowow" alt="TopLangs" />
     </td>
   </tr>
