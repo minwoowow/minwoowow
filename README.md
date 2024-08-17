@@ -42,7 +42,7 @@ K-Digital Training 과정을 통해 문제해결을 위한 창의적인 접근�
 
 <div align="center">
   
-![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoowow&show_icons=true&theme=gruvbox)　　　　
+![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoowow&show_icons=true&theme=gruvbox)　　
 [![Solved.ac Minwoo](http://mazassumnida.wtf/api/v2/generate_badge?boj=crashpy)](https://solved.ac/crashpy/)  
 
 </div>
