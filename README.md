@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Minwoo's%20GITHUB&fontSize=40&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hello!%20I'm%20Minwoo&fontSize=50&fontAlign=30&fontAlignY=50&desc=I'm%20on%20a%20journey%20to%20becoming%20a%20full-stack%20developer.&descAlign=33&descAlignY=85)
 
 # Introduce
 개발자에게 고객이 만족하는 서비스를 제공하는 것이 중요한만큼 팀원들의 성장도 함께 공존해나가야한다는 생각으로 어느 한 쪽에 치우치지 <br>
