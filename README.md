@@ -44,11 +44,5 @@ K-Digital Training 과정을 통해 문제해결을 위한 창의적인 접근�
 
 - [AI기반 의류 추천 웹서비스](https://github.com/minwoowow/project-frontend-modamatch) [2024.07.01~2024.07.26]
   - 부산대학교 K-Digital AI활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 팀 프로젝트#2
-  - 해당 교육기관과 연계된 기업의 데이터를 받고 요구사항을 반영하여 개발진행
-  - K-Fashion Dataset, 인터넷 쇼핑몰 크롤링데이터 활용 
-  - 개발목적 : 딥러닝을 활용한 의류 추천 서비스를 통해 급격하게 변하는 패션 트렌드의 흐름속에서 고객에게 최신 트렌드와
-              소비자 선호도를 신속하게 분석하고 대응할 수 있는 솔루션 제공
-  - 핵심 아이디어 : 인지도 높은 인터넷 의류 쇼핑몰을 크롤링한 데이터셋을 딥러닝을 활용해 학습시키고 고객이 의류 이미지를 입력하면
-                   학습된 모델에서 분석하여 가장 유사한 벡터값을 가지는 상품을 추천해주는 서비스  
-
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
