@@ -41,9 +41,9 @@ K-Digital Training 과정을 통해 문제해결을 위한 창의적인 접근�
 ## Project
 
 - [부산시 지하철 혼잡도 알림 웹서비스](https://github.com/minwoowow/project-backend-metronom) [2024.06.01~2024.06.28]
-  - 부산대학교 K-digital AI활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 팀 프로젝트#1    
+  - 부산대학교 K-digital AI활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 6기 - 팀프로젝트#1
 
 - [AI기반 의류 추천 웹서비스](https://github.com/minwoowow/project-frontend-modamatch) [2024.07.01~2024.07.26]
-  - 부산대학교 K-Digital AI활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 팀 프로젝트#2
+  - 부산대학교 K-Digital AI활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 6기 - 팀프로젝트#2
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
